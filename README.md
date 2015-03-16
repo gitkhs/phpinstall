@@ -1,0 +1,2 @@
+# phpinstall
+phpinstall script
